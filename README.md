@@ -1,4 +1,9 @@
-## Hi there 👋
+## Olá, Eu sou o Hiago Farias Veloso 👋
+
+Tenho 23 anos e atualmente curso **Análise e Desenvolvimento de Sistemas.**
+
+Sou uma pessoa dedicada, com interesse em tecnologia e sempre buscando aprender e evoluir. 
+Valorizo o crescimento contínuo, novos desafios e oportunidades que contribuam para o meu desenvolvimento pessoal e profissional.
 
 <!--
 **HiagoFarias/HiagoFarias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
